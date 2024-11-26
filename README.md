@@ -18,5 +18,5 @@ O vídeo é uma apresentação a uma jornada ao mundo da IA voltada à Desenvolv
 - https://ai.invideo.io/watch/l0LxDtRocad
 - https://gamma.app/docs/Inteligencia-Artificial-Impactos-no-Desenvolvimento-e-Qualidade-d-6qab51mtzz7nhzs
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Este projeto foi uma experiência maravilhosa de pesquisa e conhecimento, principalmente em utilizar ferramentas que lhe empoderam profissionalmente.
