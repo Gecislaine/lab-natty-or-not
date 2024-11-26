@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Inteligência Artificial para Desenvolvimento e Testes de Software
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A apresentação e o vídeo de 14 minutos apresenta o uso da IA em desenvolvimento e qualidade de software, mostrando seu impacto e como o uso da IA pode ajudá-los no desenvolvimento destas áreas.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
